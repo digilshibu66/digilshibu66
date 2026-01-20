@@ -28,7 +28,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=digilshibu66&theme=github-dark" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750430-7b1c0f1b-ec5c-4e60-b1c3-1cdbfcd53c7c.gif" width="100%" />
+---
 
 ## 👨‍💻 About Me
 
