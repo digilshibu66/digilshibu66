@@ -24,15 +24,11 @@
   <img src="https://komarev.com/ghpvc/?username=digilshibu66&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=digilshibu66&theme=flat&row=1&margin-w=15" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=digilshibu66&theme=github-dark" />
 </p>
 
-
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212750430-7b1c0f1b-ec5c-4e60-b1c3-1cdbfcd53c7c.gif" width="100%" />
 
 ## 👨‍💻 About Me
 
