@@ -24,11 +24,8 @@
   <img src="https://komarev.com/ghpvc/?username=digilshibu66&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=digilshibu66&theme=github-dark" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212750430-7b1c0f1b-ec5c-4e60-b1c3-1cdbfcd53c7c.gif" width="100%" />
 
----
 
 ## 👨‍💻 About Me
 
@@ -42,7 +39,7 @@ I specialize in:
 
 I enjoy solving **complex engineering problems** and turning ideas into **reliable, maintainable software products**.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750430-7b1c0f1b-ec5c-4e60-b1c3-1cdbfcd53c7c.gif" width="100%" />
 
 ## 🎯 What I’m Focused On Right Now
 
@@ -52,7 +49,8 @@ I enjoy solving **complex engineering problems** and turning ideas into **reliab
 - ⚙️ Improving system performance, security & reliability
 - 📦 Open-source contributions & side projects
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750430-7b1c0f1b-ec5c-4e60-b1c3-1cdbfcd53c7c.gif" width="100%" />
+
 
 ## 🛠️ Tech Stack Overview
 
@@ -64,7 +62,7 @@ I enjoy solving **complex engineering problems** and turning ideas into **reliab
 ![PHP](https://img.shields.io/badge/PHP-purple?logo=php)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750430-7b1c0f1b-ec5c-4e60-b1c3-1cdbfcd53c7c.gif" width="100%" />
 
 ### 🌐 Web Development
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
@@ -73,14 +71,14 @@ I enjoy solving **complex engineering problems** and turning ideas into **reliab
 ![Express](https://img.shields.io/badge/Express-black?logo=express)
 ![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750430-7b1c0f1b-ec5c-4e60-b1c3-1cdbfcd53c7c.gif" width="100%" />
 
 ### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react)
 ![Ionic](https://img.shields.io/badge/Ionic-blue?logo=ionic)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750430-7b1c0f1b-ec5c-4e60-b1c3-1cdbfcd53c7c.gif" width="100%" />
 
 ### 🧠 Generative AI & Machine Learning
 - LangChain, Hugging Face, OpenAI API
@@ -88,7 +86,7 @@ I enjoy solving **complex engineering problems** and turning ideas into **reliab
 - Vector Search & Embeddings
 - **Vector Databases:** ChromaDB, Pinecone
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750430-7b1c0f1b-ec5c-4e60-b1c3-1cdbfcd53c7c.gif" width="100%" />
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)
@@ -99,7 +97,7 @@ I enjoy solving **complex engineering problems** and turning ideas into **reliab
 - EC2, S3, Lambda, RDS, ECS, API Gateway
 - CI/CD Pipelines, Nginx, Infrastructure as Code
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750430-7b1c0f1b-ec5c-4e60-b1c3-1cdbfcd53c7c.gif" width="100%" />
 
 ## 🌍 Languages
 - English – Professional
@@ -107,13 +105,13 @@ I enjoy solving **complex engineering problems** and turning ideas into **reliab
 - Hindi – Intermediate
 - Tamil – Conversational
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750430-7b1c0f1b-ec5c-4e60-b1c3-1cdbfcd53c7c.gif" width="100%" />
 
 ## 📫 Get in Touch
 - 📧 **digilshibu99@gmail.com**
 - 📍 Kannur, Kerala, India
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750430-7b1c0f1b-ec5c-4e60-b1c3-1cdbfcd53c7c.gif" width="100%" />
 
 ⭐ *If you find my work interesting, feel free to follow me or connect on LinkedIn.*
 
