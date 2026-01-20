@@ -8,13 +8,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I am an **M.Sc Computer Science graduate** with strong experience in **Full-Stack Development, Mobile Applications, Cloud Architecture, and Generative AI systems**. I enjoy building scalable, production-ready applications and AI-driven platforms that solve real-world problems.
-
-I have worked across **AgriTech, EdTech, Logistics, and GenAI-based products**, handling everything from frontend UI to backend APIs, cloud deployment, and AI pipelines.
-
----
 
 ## 🛠️ Technical Skills
 
