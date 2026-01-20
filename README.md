@@ -24,6 +24,13 @@
   <img src="https://komarev.com/ghpvc/?username=digilshibu66&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=digilshibu66&theme=flat&row=1&margin-w=15" />
+</p>
+
+
 
 ---
 
