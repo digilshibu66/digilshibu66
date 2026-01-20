@@ -89,18 +89,6 @@ I enjoy solving **complex engineering problems** and turning ideas into **reliab
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=digilshibu66&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digilshibu66&layout=compact&theme=github_dark" />
-</p>
-
----
-
 ## 🌍 Languages
 - English – Professional
 - Malayalam – Native
