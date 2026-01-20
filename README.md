@@ -1,6 +1,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=260&section=header&text=Digil%20Shibu&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Generative%20AI%20Engineer%20%7C%20Cloud%20Architect&descAlignY=70)
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Generative+AI+Engineer;Flutter+%7C+React+Native+Developer;AWS+Cloud+Specialist" />
+</p>
+
+<p align="center">
   <b>🚀 Building scalable systems, intelligent AI products, and production-ready apps</b>
 </p>
 
