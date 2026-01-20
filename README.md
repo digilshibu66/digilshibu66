@@ -1,24 +1,48 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Digil%20Shibu&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Generative%20AI%20Engineer&descAlignY=65)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=260&section=header&text=Digil%20Shibu&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Generative%20AI%20Engineer%20%7C%20Cloud%20Architect&descAlignY=70)
 
 <p align="center">
-  <b>🚀 Full-Stack Developer | Generative AI Engineer | Mobile & Cloud Specialist</b>
+  <b>🚀 Building scalable systems, intelligent AI products, and production-ready apps</b>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/digil-shibu-76b729222">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"/>
   </a>
   <a href="https://github.com/digilshibu66">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=for-the-badge"/>
   </a>
   <a href="mailto:digilshibu99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Technical Skills
+## 👨‍💻 About Me
+
+I am a **Full-Stack Developer and Generative AI Engineer** with strong experience in building **real-world, production-grade systems** across **Web, Mobile, Cloud, and AI**.
+
+I specialize in:
+- Designing **scalable backend architectures**
+- Building **AI-powered applications (RAG, LangChain, Vector DBs)**
+- Developing **cross-platform mobile apps**
+- Deploying and maintaining systems on **AWS with CI/CD**
+
+I enjoy solving **complex engineering problems** and turning ideas into **reliable, maintainable software products**.
+
+---
+
+## 🎯 What I’m Focused On Right Now
+
+- 🤖 Building **Agentic AI systems** using LangChain & RAG
+- ☁️ Designing **cloud-native architectures** on AWS
+- 📱 Developing **Flutter & React Native apps** at scale
+- ⚙️ Improving system performance, security & reliability
+- 📦 Open-source contributions & side projects
+
+---
+
+## 🛠️ Tech Stack Overview
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
@@ -26,7 +50,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 ![Dart](https://img.shields.io/badge/Dart-blue?logo=dart)
 ![PHP](https://img.shields.io/badge/PHP-purple?logo=php)
-![Golang](https://img.shields.io/badge/Go-00ADD8?logo=go)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go)
 
 ---
 
@@ -46,35 +70,51 @@
 
 ---
 
-### 🧠 Generative AI & ML
-- LangChain, Hugging Face, OpenAI API  
-- RAG Pipelines, Vector Search  
-- **Vector DBs:** ChromaDB, Pinecone
+### 🧠 Generative AI & Machine Learning
+- LangChain, Hugging Face, OpenAI API
+- Retrieval-Augmented Generation (RAG)
+- Vector Search & Embeddings
+- **Vector Databases:** ChromaDB, Pinecone
 
 ---
 
-### ☁️ Cloud & DevOps (AWS)
+### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?logo=githubactions)
 ![Terraform](https://img.shields.io/badge/Terraform-purple?logo=terraform)
 
+- EC2, S3, Lambda, RDS, ECS, API Gateway
+- CI/CD Pipelines, Nginx, Infrastructure as Code
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=digilshibu66&show_icons=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digilshibu66&layout=compact&theme=github_dark" />
+</p>
+
 ---
 
 ## 🌍 Languages
-- English (Professional)
-- Malayalam (Native)
-- Hindi (Intermediate)
-- Tamil (Conversational)
+- English – Professional
+- Malayalam – Native
+- Hindi – Intermediate
+- Tamil – Conversational
 
 ---
 
-## 📫 Contact
+## 📫 Get in Touch
 - 📧 **digilshibu99@gmail.com**
 - 📍 Kannur, Kerala, India
 
 ---
 
-⭐ *If you like my work, consider following me on GitHub!*
+⭐ *If you find my work interesting, feel free to follow me or connect on LinkedIn.*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12&height=120&section=footer)
