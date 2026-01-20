@@ -69,18 +69,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=digilshibu66&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digilshibu66&layout=compact" />
-</p>
-
----
-
 ## 📫 Contact
 - 📧 **digilshibu99@gmail.com**
 - 📍 Kannur, Kerala, India
