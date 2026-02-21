@@ -43,7 +43,7 @@ I enjoy solving **complex engineering problems** and turning ideas into **reliab
 
 ## 🎯 What I’m Focused On Right Now
 
-- 🤖 Building **Agentic AI systems** using LangChain & RAG
+- 🤖 Building **Agentic AI systems** using Agentic Tools
 - ☁️ Designing **cloud-native architectures** on AWS
 - 📱 Developing **Flutter & React Native apps** at scale
 - ⚙️ Improving system performance, security & reliability
